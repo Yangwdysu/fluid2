@@ -1,0 +1,17 @@
+﻿Build started 2013/9/25 16:32:30.
+     1>Project "E:\MFDynamics\MFDynamics_1_0\build\App_SPHDeformation\App_SPHDeformation.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\App_SPHDeformation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\App_SPHDeformation.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\App_SPHDeformation.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\MfdNumericalMethod\SPH\DeformableSolid.cpp main.cpp
+         DeformableSolid.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdnumericalmethod\sph\DeformableSolid.h(4): fatal error C1083: Cannot open include file: 'MfdNumericalMethod/SPH/BasicSPH.h': No such file or directory
+         main.cpp
+     1>main.cpp(8): fatal error C1083: Cannot open include file: 'MfdGUI/GlutMaster.h': No such file or directory
+     1>Done Building Project "E:\MFDynamics\MFDynamics_1_0\build\App_SPHDeformation\App_SPHDeformation.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.41

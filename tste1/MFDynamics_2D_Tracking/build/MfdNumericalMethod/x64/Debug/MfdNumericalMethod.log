@@ -1,0 +1,16 @@
+﻿  UniformGridQuery.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\uniformgridquery.cpp(218): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  SinglePhaseFluid.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\singlephasefluid.cpp(461): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\singlephasefluid.cpp(463): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\singlephasefluid.cpp(464): warning C4305: “/=”: 从“double”到“float”截断
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\singlephasefluid.cpp(476): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\singlephasefluid.cpp(478): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\singlephasefluid.cpp(479): warning C4305: “/=”: 从“double”到“float”截断
+  Particle.cpp
+  Config.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\config.cpp(156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  BasicSPH.cpp
+  Boundary.cpp
+  正在生成代码...
+  MfdNumericalMethod.vcxproj -> F:\vs_project\tste1\MFDynamics_2D_Tracking\build\MfdNumericalMethod\..\..\lib\x64\MfdNumericalMethod.lib

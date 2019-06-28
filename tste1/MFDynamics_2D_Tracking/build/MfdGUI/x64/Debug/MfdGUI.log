@@ -1,0 +1,27 @@
+﻿  PointRenderer.cpp
+  GlutMaster.cpp
+  GlutWindow.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(34): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(55): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(74): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(91): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(95): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(182): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(220): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(221): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(225): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(226): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(254): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\glutwindow.cpp(287): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  Camera.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\camera.cpp(56): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\camera.cpp(89): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\camera.cpp(90): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\camera.cpp(118): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdgui\camera.cpp(119): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+  正在生成代码...
+  MfdGUI.vcxproj -> F:\vs_project\tste1\MFDynamics_2D_Tracking\build\MfdGUI\..\..\lib\x64\MfdGUI.lib

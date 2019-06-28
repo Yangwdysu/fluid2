@@ -1,0 +1,23 @@
+﻿Build started 2013/9/25 16:32:27.
+     1>Project "E:\MFDynamics\MFDynamics_1_0\build\MfdNumericalMethod\MfdNumericalMethod.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\MfdNumericalMethod.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\MfdNumericalMethod\Boundary.cpp ..\..\src\MfdNumericalMethod\SPH\BasicSPH.cpp ..\..\src\MfdNumericalMethod\SPH\Config.cpp ..\..\src\MfdNumericalMethod\SPH\Particle.cpp ..\..\src\MfdNumericalMethod\SPH\SinglePhaseFluid.cpp ..\..\src\MfdNumericalMethod\UniformGridQuery.cpp
+         Boundary.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdnumericalmethod\Boundary.h(5): fatal error C1083: Cannot open include file: 'MfdMath/DataStructure/Vec.h': No such file or directory
+         BasicSPH.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdnumericalmethod\sph\BasicSPH.h(4): fatal error C1083: Cannot open include file: 'MfdNumericalMethod/SPH/Kernels.h': No such file or directory
+         Config.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdnumericalmethod\sph\Config.h(30): fatal error C1083: Cannot open include file: 'MfdMath/DataStructure/Vec.h': No such file or directory
+         Particle.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdnumericalmethod\sph\Particle.h(6): fatal error C1083: Cannot open include file: 'MfdMath/DataStructure/Vec.h': No such file or directory
+         SinglePhaseFluid.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdnumericalmethod\sph\BasicSPH.h(4): fatal error C1083: Cannot open include file: 'MfdNumericalMethod/SPH/Kernels.h': No such file or directory
+         UniformGridQuery.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdnumericalmethod\UniformGridQuery.h(2): fatal error C1083: Cannot open include file: 'MfdNumericalMethod/INeighborQuery.h': No such file or directory
+     1>Done Building Project "E:\MFDynamics\MFDynamics_1_0\build\MfdNumericalMethod\MfdNumericalMethod.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.82

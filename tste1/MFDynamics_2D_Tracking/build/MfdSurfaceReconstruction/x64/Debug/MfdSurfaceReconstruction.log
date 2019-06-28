@@ -1,0 +1,51 @@
+﻿  Mesh.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(82): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(82): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(87): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(87): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(107): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(112): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(116): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(208): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(223): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(223): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(224): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(224): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(225): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\mesh.cpp(225): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  DistanceField3D.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(82): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(82): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(87): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(87): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(107): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\triangle.h(112): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\distancefield3d.cpp(105): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\distancefield3d.cpp(193): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\distancefield3d.cpp(234): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\distancefield3d.cpp(607): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\distancefield3d.cpp(612): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\distancefield3d.cpp(787): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  CIsoSurface.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(337): warning C4018: “<”: 有符号/无符号不匹配
+  f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(334): note: 编译类 模板 成员函数“void CIsoSurface<short>::SaveToObj(const char *)”时
+  f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(777): note: 参见对正在编译的类 模板 实例化“CIsoSurface<short>”的引用
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(343): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(347): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(706): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(681): note: 编译类 模板 成员函数“void CIsoSurface<short>::RenameVerticesAndTriangles(void)”时
+  f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(493): note: 参见对正在编译的函数 模板 实例化“void CIsoSurface<short>::RenameVerticesAndTriangles(void)”的引用
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(715): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(717): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(740): warning C4018: “<”: 有符号/无符号不匹配
+  f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(728): note: 编译类 模板 成员函数“void CIsoSurface<short>::CalculateNormals(void)”时
+  f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(494): note: 参见对正在编译的函数 模板 实例化“void CIsoSurface<short>::CalculateNormals(void)”的引用
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(767): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(306): warning C4838: 从“int”转换到“const unsigned int”需要收缩转换
+  f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdsurfacereconstruction\cisosurface.cpp(49): note: 编译类 模板 静态数据成员“const unsigned int CIsoSurface<short>::m_triTable[256][16]”时
+  正在生成代码...
+  MfdSurfaceReconstruction.vcxproj -> F:\vs_project\tste1\MFDynamics_2D_Tracking\build\MfdSurfaceReconstruction\..\..\lib\x64\MfdSurfaceReconstruction.lib

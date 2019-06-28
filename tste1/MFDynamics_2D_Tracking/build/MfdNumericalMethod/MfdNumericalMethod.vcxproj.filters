@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MLPG">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="SPH">
+      <UniqueIdentifier>{f5a902bf-0bf6-47b7-8a54-eb3c77533f92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Eulerian">
+      <UniqueIdentifier>{64ed0c4f-242f-40f4-8d98-64c0848988fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\MfdNumericalMethod\UniformGridQuery.h" />
+    <ClInclude Include="..\..\src\MfdNumericalMethod\Boundary.h" />
+    <ClInclude Include="..\..\src\MfdNumericalMethod\SPH\BasicSPH.h">
+      <Filter>SPH</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdNumericalMethod\SPH\SinglePhaseFluid.h">
+      <Filter>SPH</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdNumericalMethod\ISimulation.h" />
+    <ClInclude Include="..\..\src\MfdNumericalMethod\INeighborQuery.h" />
+    <ClInclude Include="..\..\src\MfdNumericalMethod\ILoader.h" />
+    <ClInclude Include="..\..\src\MfdNumericalMethod\SPH\Config.h">
+      <Filter>SPH</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdNumericalMethod\SPH\Kernels.h">
+      <Filter>SPH</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdNumericalMethod\SPH\Particle.h">
+      <Filter>SPH</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\MfdNumericalMethod\UniformGridQuery.cpp" />
+    <ClCompile Include="..\..\src\MfdNumericalMethod\Boundary.cpp" />
+    <ClCompile Include="..\..\src\MfdNumericalMethod\SPH\BasicSPH.cpp">
+      <Filter>SPH</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdNumericalMethod\SPH\SinglePhaseFluid.cpp">
+      <Filter>SPH</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdNumericalMethod\SPH\Config.cpp">
+      <Filter>SPH</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdNumericalMethod\SPH\Particle.cpp">
+      <Filter>SPH</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

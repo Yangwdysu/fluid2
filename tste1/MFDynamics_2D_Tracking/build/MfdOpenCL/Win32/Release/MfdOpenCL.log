@@ -1,0 +1,12 @@
+﻿Build started 2013/9/25 16:32:28.
+     1>Project "E:\MFDynamics\MFDynamics_1_0\build\MfdOpenCL\MfdOpenCL.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Release\MfdOpenCL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Win32\Release\MfdOpenCL.unsuccessfulbuild".
+         Touching "Win32\Release\MfdOpenCL.lastbuildstate".
+     1>Done Building Project "E:\MFDynamics\MFDynamics_1_0\build\MfdOpenCL\MfdOpenCL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.02

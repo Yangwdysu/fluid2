@@ -1,0 +1,6 @@
+mbuild
+mbuild/App_SPHDeformation
+mbuild/App_SPHMultiPhaseFlow
+mbuild/MfdIO
+msrc/MfdGUI
+rsrc/MfdNumericalMethod

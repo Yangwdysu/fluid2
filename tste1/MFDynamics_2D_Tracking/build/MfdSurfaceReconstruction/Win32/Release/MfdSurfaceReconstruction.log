@@ -1,0 +1,70 @@
+﻿Build started 2013/9/25 16:32:27.
+     1>Project "E:\MFDynamics\MFDynamics_1_0\build\MfdSurfaceReconstruction\MfdSurfaceReconstruction.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Release\MfdSurfaceReconstruction.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Release\\" /Fd"Win32\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp ..\..\src\MfdSurfaceReconstruction\DistanceField3D.cpp ..\..\src\MfdSurfaceReconstruction\Mesh.cpp
+         CIsoSurface.cpp
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(695): warning C4018: '<' : signed/unsigned mismatch
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(659) : while compiling class template member function 'void CIsoSurface<T>::RenameVerticesAndTriangles(void)'
+                 with
+                 [
+                     T=short
+                 ]
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(755) : see reference to class template instantiation 'CIsoSurface<T>' being compiled
+                 with
+                 [
+                     T=short
+                 ]
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(718): warning C4018: '<' : signed/unsigned mismatch
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(706) : while compiling class template member function 'void CIsoSurface<T>::CalculateNormals(void)'
+                 with
+                 [
+                     T=short
+                 ]
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(745): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(695): warning C4018: '<' : signed/unsigned mismatch
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(659) : while compiling class template member function 'void CIsoSurface<T>::RenameVerticesAndTriangles(void)'
+                 with
+                 [
+                     T=unsigned short
+                 ]
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(756) : see reference to class template instantiation 'CIsoSurface<T>' being compiled
+                 with
+                 [
+                     T=unsigned short
+                 ]
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(718): warning C4018: '<' : signed/unsigned mismatch
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(706) : while compiling class template member function 'void CIsoSurface<T>::CalculateNormals(void)'
+                 with
+                 [
+                     T=unsigned short
+                 ]
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(745): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(695): warning C4018: '<' : signed/unsigned mismatch
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(659) : while compiling class template member function 'void CIsoSurface<T>::RenameVerticesAndTriangles(void)'
+                 with
+                 [
+                     T=float
+                 ]
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(757) : see reference to class template instantiation 'CIsoSurface<T>' being compiled
+                 with
+                 [
+                     T=float
+                 ]
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(718): warning C4018: '<' : signed/unsigned mismatch
+                 ..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(706) : while compiling class template member function 'void CIsoSurface<T>::CalculateNormals(void)'
+                 with
+                 [
+                     T=float
+                 ]
+     1>..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp(745): warning C4018: '<' : signed/unsigned mismatch
+         DistanceField3D.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdsurfacereconstruction\Triangle.h(30): fatal error C1083: Cannot open include file: 'MfdMath/DataStructure/Vec.h': No such file or directory
+         Mesh.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\src\mfdsurfacereconstruction\Mesh.h(31): fatal error C1083: Cannot open include file: 'MfdMath/DataStructure/Vec.h': No such file or directory
+     1>Done Building Project "E:\MFDynamics\MFDynamics_1_0\build\MfdSurfaceReconstruction\MfdSurfaceReconstruction.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.25
