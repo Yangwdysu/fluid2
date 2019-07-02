@@ -1,0 +1,27 @@
+﻿  Image.cpp
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(732): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(739): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1048): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1079): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1147): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1178): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1198): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1279): warning C4474: fprintf: 格式字符串中传递的参数太多
+  h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1279): note: 占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1321): warning C4474: fprintf: 格式字符串中传递的参数太多
+  h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1321): note: 占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\image.cpp(1295): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  Log.cpp
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdio\log.cpp(18): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 参见“localtime”的声明
+  MfdIO.vcxproj -> H:\Study\Ph.D\Beida\paper\Phase-field\何师兄\MFDynamics_2D_Tracking\MFDynamics_2D_Tracking\build\MfdIO\..\..\lib\x64\Release\MfdIO.lib

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="NumericalAlgorithm">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DataStructure">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Statistics">
+      <UniqueIdentifier>{3cabcc23-8be5-4224-bc49-f7fa64e52bc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LinearSystem">
+      <UniqueIdentifier>{9d0b27c7-4a9f-4834-a2b5-014bc1075e47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\MfdMath\DataStructure\Vec.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdMath\DataStructure\Quaternion.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdMath\Statistics\Timer.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdMath\NumericalAlgorithm\Algorithms.h">
+      <Filter>NumericalAlgorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdMath\DataStructure\Array.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdMath\DataStructure\Matrix.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdMath\StaticAssert.h" />
+    <ClInclude Include="..\..\src\MfdMath\Common.h" />
+    <ClInclude Include="..\..\src\MfdMath\DataStructure\Grid.h">
+      <Filter>DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdMath\LinearSystem\MeshlessSolver.h">
+      <Filter>LinearSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\MfdMath\Statistics\Timer.cpp">
+      <Filter>Statistics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdMath\NumericalAlgorithm\Algorithms.cpp">
+      <Filter>NumericalAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdMath\DataStructure\Matrix.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdMath\LinearSystem\MeshlessSolver.cpp">
+      <Filter>LinearSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

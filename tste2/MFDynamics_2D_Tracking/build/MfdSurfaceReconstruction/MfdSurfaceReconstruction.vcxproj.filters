@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Mesh">
+      <UniqueIdentifier>{98ab54a0-1bd8-4e46-940d-c383679a5d40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Field">
+      <UniqueIdentifier>{33b8024f-0715-4840-be92-9dd9202525a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SurfaceExtraction">
+      <UniqueIdentifier>{3ed00b38-bab8-449d-b6f1-acd9b00ccd9e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\MfdSurfaceReconstruction\Edge.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdSurfaceReconstruction\Mesh.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdSurfaceReconstruction\Triangle.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdSurfaceReconstruction\Vertex.h">
+      <Filter>Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdSurfaceReconstruction\DistanceField3D.h">
+      <Filter>Field</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\MfdSurfaceReconstruction\CIsoSurface.h">
+      <Filter>SurfaceExtraction</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\MfdSurfaceReconstruction\Mesh.cpp">
+      <Filter>Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdSurfaceReconstruction\DistanceField3D.cpp">
+      <Filter>Field</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\MfdSurfaceReconstruction\CIsoSurface.cpp">
+      <Filter>SurfaceExtraction</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

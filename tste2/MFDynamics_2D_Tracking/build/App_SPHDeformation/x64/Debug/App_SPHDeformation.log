@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  main.cpp
+  Note: including lib: glut32.lib
+  
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(127): warning C4005: “CALLBACK”: 宏重定义
+  c:\programdata\nvidia corporation\cuda samples\v9.2\common\inc\gl\glut.h(33): note: 参见“CALLBACK”的前一个定义
+  DeformableSolid.cpp
+f:\vs_project\tste1\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\deformablesolid.cpp(19): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码...
+  App_SPHDeformation.vcxproj -> F:\vs_project\tste1\MFDynamics_2D_Tracking\build\App_SPHDeformation\..\..\bin\App_SPHDeformation.exe
+  App_SPHDeformation.vcxproj -> ..\..\bin\App_SPHDeformation.pdb (Full PDB)

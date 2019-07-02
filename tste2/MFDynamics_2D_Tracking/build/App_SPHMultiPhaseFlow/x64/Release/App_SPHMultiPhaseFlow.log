@@ -1,0 +1,30 @@
+﻿  HybridMultiPhaseFluid.cpp
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(366): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(367): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(738): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(397): note: 参见对正在编译的函数 模板 实例化“void mfd::HybridMultiPhaseFluid::AdvectForward<float>(mfd::Grid<3,float> &,mfd::Grid<3,float> &,mfd::GridV3f &,float)”的引用
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(740): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(742): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(500): warning C4101: “norm_z”: 未引用的局部变量
+  h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(403): note: 参见对正在编译的函数 模板 实例化“void mfd::HybridMultiPhaseFluid::UpdatePhi<float>(mfd::Grid<3,float> &,mfd::Grid<3,float> &,float)”的引用
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(500): warning C4101: “norm_y”: 未引用的局部变量
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\build\app_sphmultiphaseflow\hybridmultiphasefluid.cpp(500): warning C4101: “norm_x”: 未引用的局部变量
+  正在生成代码
+h:\study\ph.d\beida\paper\phase-field\��ʦ��\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\config.cpp : fatal error C1001: 编译器中发生内部错误。
+  (编译器文件“d:\agent\_work\3\s\src\vctools\compiler\utc\src\p2\main.c”，第 187 行)
+   要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+  请选择 Visual C++
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
+    link!InvokeCompilerPass()+0x26b98
+    link!InvokeCompilerPass()+0x26b98
+    link!InvokeCompilerPass()+0x26487
+  
+  CTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASH

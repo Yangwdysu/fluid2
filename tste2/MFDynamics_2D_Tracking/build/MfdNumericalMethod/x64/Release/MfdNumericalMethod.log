@@ -1,0 +1,3 @@
+﻿  Config.cpp
+h:\study\ph.d\beida\paper\phase-field\何师兄\mfdynamics_2d_tracking\mfdynamics_2d_tracking\src\mfdnumericalmethod\sph\config.cpp(156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  MfdNumericalMethod.vcxproj -> H:\Study\Ph.D\Beida\paper\Phase-field\何师兄\MFDynamics_2D_Tracking\MFDynamics_2D_Tracking\build\MfdNumericalMethod\..\..\lib\x64\Release\MfdNumericalMethod.lib

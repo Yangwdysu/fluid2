@@ -1,0 +1,17 @@
+﻿Build started 2013/9/25 16:32:30.
+     1>Project "E:\MFDynamics\MFDynamics_1_0\build\App_SPHMultiPhaseFlow\App_SPHMultiPhaseFlow.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Release\App_SPHMultiPhaseFlow.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\Release\App_SPHMultiPhaseFlow.pch" /Fo"Win32\Release\\" /Fd"Win32\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\Release\App_SPHMultiPhaseFlow.pch" /Fo"Win32\Release\\" /Fd"Win32\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HybridMultiPhaseFluid.cpp main.cpp
+         HybridMultiPhaseFluid.cpp
+     1>e:\mfdynamics\mfdynamics_1_0\build\app_sphmultiphaseflow\HybridMultiPhaseFluid.h(2): fatal error C1083: Cannot open include file: 'MfdNumericalMethod/SPH/BasicSPH.h': No such file or directory
+         main.cpp
+     1>main.cpp(8): fatal error C1083: Cannot open include file: 'MfdGUI/GlutMaster.h': No such file or directory
+     1>Done Building Project "E:\MFDynamics\MFDynamics_1_0\build\App_SPHMultiPhaseFlow\App_SPHMultiPhaseFlow.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.42

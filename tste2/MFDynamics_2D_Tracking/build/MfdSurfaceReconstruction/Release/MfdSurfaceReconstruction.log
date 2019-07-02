@@ -1,0 +1,12 @@
+﻿Build started 2013/6/28 15:06:08.
+     1>Project "E:\MFDynamics\MFDynamics_1_0\MfdSurfaceReconstruction\MfdSurfaceReconstruction.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\MfdSurfaceReconstruction.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Release\MfdSurfaceReconstruction.unsuccessfulbuild".
+         Touching "Release\MfdSurfaceReconstruction.lastbuildstate".
+     1>Done Building Project "E:\MFDynamics\MFDynamics_1_0\MfdSurfaceReconstruction\MfdSurfaceReconstruction.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
